@@ -39,7 +39,7 @@ with st.container():
 #         Like many of our ancestors, we build and evolve technologies with the hopes of making the our lives and the planet a better place for all.
 #         """
 #     )
-    st.write("[Learn More >](https://pythonandvba.com)")
+
 
 # ---- WHAT WE DO ----
 with st.container():
@@ -55,6 +55,7 @@ with st.container():
             Like many of our ancestors, we build and evolve technologies with the hopes of making the our lives and the planet a better place for all.
             """
         )
+    st.write("[Learn More >](https://armada-alliance.com)")
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
 
